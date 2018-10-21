@@ -34,12 +34,15 @@ ___
 
 **⚠ Restitution ⚠**
 
-dans votre Readme.md :
+> Faite le plus possible, en groupe ou seul.
+> Enjoy ! 
+
+Dans votre Readme.md :
 
 - Planning poker
 - Kanban (Trello, Taiga, Kanban flow...)
 - Carnet bord suivie (PPP dans un Google doc par ex) 
 
-sur Simplonline :
+Sur Simplonline :
 - Liens du site héberger (heroku, surge.sh)
 - Repository Github.
