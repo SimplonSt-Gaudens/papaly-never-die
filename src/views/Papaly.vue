@@ -85,7 +85,7 @@
 				this.board_selected = id;
 			},
 			add_board(e){
-				e.preventDefault
+				e.preventDefault()
 				this.boards.push({
 					id:v4(),
 					name: this.new_board
